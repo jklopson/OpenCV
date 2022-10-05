@@ -1,1 +1,1 @@
-# OpenCV
+projects learning OpenCV Python library
